@@ -5,11 +5,11 @@
 ### Wordpress file has been moved from the repository due to exceeding quota of Github LFS. Download it now from <a href="https://drive.google.com/file/d/1q1kdNBQyQTIIq9OuMuYBUgD3fni-oJQp/view?usp=sharing">here</a>
 
 # Screenshots
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner.png">
+
 <img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner2.PNG">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/11-resuts.png" width="750">
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/wp-admin.PNG" width="750">
-Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/tree/master/screenshots">click here</a>
+<img src="https://ibb.co/pxbgGYy" width="750">
+<img src="https://ibb.co/RhF6js5" width="750">
+Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/ayansiddiqui007/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/tree/master/screenshots">click here</a>
 
 # File and Directory Structure
 <pre>
@@ -53,7 +53,7 @@ main.py - main machine learning module
 <li>Wordpress Admin Panel is available at: <b>http://localhost/www/wordpress-5.6.2/wordpress/wp-admin</b></li>
 </ol>
 <br>
-<b> Video of setup and demo is available <a href="https://drive.google.com/file/d/1iP5RqdlREx_YbP-5RZqo7fB1rElQ2igi/view?usp=sharing">here</a></b>
+<b> Video of setup <a href="https://drive.google.com/file/d/1iP5RqdlREx_YbP-5RZqo7fB1rElQ2igi/view?usp=sharing">here</a></b>
 <br>
 <h2> Admin Credentails </h2><br>
 <b>Username:</b> admin
@@ -65,8 +65,5 @@ main.py - main machine learning module
 # Authors
 ## Kaushik Jadhav
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+<li>Github:https://github.com/ayansiddiqui007</li>
 </ul>
