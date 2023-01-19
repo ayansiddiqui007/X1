@@ -6,7 +6,7 @@
 
 # Screenshots
 
-<img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/blob/master/screenshots/banner2.PNG">
+<img src="https://ibb.co/6v8wpPw" width="750">
 <img src="https://ibb.co/pxbgGYy" width="750">
 <img src="https://ibb.co/RhF6js5" width="750">
 Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/ayansiddiqui007/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/tree/master/screenshots">click here</a>
@@ -63,7 +63,7 @@ main.py - main machine learning module
 <b>Password:</b> Samplepass@123
 
 # Authors
-## Kaushik Jadhav
+## Ayan Siddiqui
 <ul>
 <li>Github:https://github.com/ayansiddiqui007</li>
 </ul>
