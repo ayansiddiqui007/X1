@@ -7,6 +7,7 @@
 # Screenshots
 
 <img src="https://i.ibb.co/hXc9nW9/banner2.png" alt="banner2" border="0">
+<img src="https://i.ibb.co/bPQxqcJ/11-resuts.png" alt="11-resuts" border="0">
 
 Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/ayansiddiqui007/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/tree/master/screenshots">click here</a>
 
