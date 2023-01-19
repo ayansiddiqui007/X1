@@ -53,7 +53,7 @@ main.py - main machine learning module
 <li>Wordpress Admin Panel is available at: <b>http://localhost/www/wordpress-5.6.2/wordpress/wp-admin</b></li>
 </ol>
 <br>
-<b> Video of setup <a href="https://drive.google.com/file/d/1iP5RqdlREx_YbP-5RZqo7fB1rElQ2igi/view?usp=sharing">here</a></b>
+
 <br>
 <h2> Admin Credentails </h2><br>
 <b>Username:</b> admin
