@@ -6,9 +6,8 @@
 
 # Screenshots
 
-<img src="https://ibb.co/6v8wpPw" width="750">
-<img src="https://ibb.co/pxbgGYy" width="750">
-<img src="https://ibb.co/RhF6js5" width="750">
+<img src="https://i.ibb.co/hXc9nW9/banner2.png" alt="banner2" border="0">
+
 Find more screenshots in the <b>screenshots folder</b> Or <a href="https://github.com/ayansiddiqui007/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis/tree/master/screenshots">click here</a>
 
 # File and Directory Structure
